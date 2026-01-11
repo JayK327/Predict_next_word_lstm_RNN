@@ -2,11 +2,3 @@
 myenv/
 env/
 .venv/
-
-# Model files
-*.h5
-*.pkl
-
-# LFS pointer files (optional)
-*.bin
-*.keras
